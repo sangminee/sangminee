@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi there 👋 %&fontSize=90" /> 
 </div>
 
+<div align=center><h1>✨ STACKS ✨</h1></div>
 <div align=center>
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -32,6 +33,7 @@
 
 <div align=center></div>
 <br>
+<br>
 <!-- <br>
 <div align=center>
   ![sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
@@ -53,7 +55,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
+
+[sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
+   
+
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
