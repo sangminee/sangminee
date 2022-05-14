@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
