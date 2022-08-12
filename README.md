@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-<div align=center>
+<!-- <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi there 👋 %&fontSize=90" /> 
-</div>
+</div>-->
 
 <div align=center><h1>✨ STACKS ✨</h1></div>
 <div align=center>
