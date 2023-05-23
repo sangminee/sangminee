@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![](https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![](https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![](https://img.shields.io/badge/CloudFront-6DB33F?style=flat-square&logo=CloudFront&logoColor=white)
+![](https://img.shields.io/badge/CloudFront-7B68EE?style=flat-square&logo=CloudFront&logoColor=white)
 ![](https://img.shields.io/badge/awslambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![](https://img.shields.io/badge/MediaConvert-FF9900?style=flat-square&logo=MediaConvert&logoColor=white)
 
@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![](https://img.shields.io/badge/datagrip-000000?style=flat-square&logo=datagrip&logoColor=white)
 ![](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
 
 <br>
