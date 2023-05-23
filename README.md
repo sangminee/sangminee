@@ -44,6 +44,12 @@
 ![](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
+<br>
+<br>
+
+![Sangminee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true&theme=radical)
+
+
 
 <div align=center></div>
 <br>
