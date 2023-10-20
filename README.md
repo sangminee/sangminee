@@ -1,7 +1,6 @@
 ## Hi! I'm Sangmin 👋 
-  - 🌱 I’m currently learning  ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  - 🌱 I’m currently learning java, spring, spring boot
+  - 👩🏻‍🎓 I'm majoring in Application software & Biosciences and Bioinformatics, at Myongji University
 
 
 ## Activity
