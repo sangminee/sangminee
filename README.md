@@ -1,6 +1,6 @@
 ## Hi! I'm Sangmin 👋 
-  - 🌱 I’m currently learning java, spring, spring boot
-  - 👩🏻‍🎓 I'm majoring in Application software & Biosciences and Bioinformatics, at Myongji University
+  - 🌱 I’m currently learning `JAVA`, `Spring`, `Spring boot`
+  - 👩🏻‍🎓 I'm majoring in `Application software` & `Biosciences and Bioinformatics`, at Myongji University
 
 
 ## Activity
