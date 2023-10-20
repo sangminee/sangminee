@@ -1,9 +1,37 @@
-<!-- ### Hi there 👋 -->
+## Hi! I'm Sangmin 👋 
+  - 🌱 I’m currently learning  ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-<!-- <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi there 👋 %&fontSize=90" /> 
-</div>-->
 
+## Activity
+  - (2023) 코테이토 5기, 6기 
+  - (2022) GDSC MJU 1기
+  - (2021) 라이징 캠프 3기
+  - (2021) 멋쟁이 사자처럼(인문) 9기 
+
+
+
+<!--
+|기간|제목|설명|
+|:---|:---|:---|
+|2023.09 ~ |project|개인 프로젝트|
+|2023.03 ~ 2023. 06|SoftCoA|개발관련 온라인 코칭 플랫폼|
+
+
+- 🌱 I’m currently learning 
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <h2> 🛠️ Stacks </h2>
 
@@ -45,11 +73,6 @@
 ![](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
-<br>
-<br>
-
-![Sangminee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true&theme=radical)
-
 
 <div align=center></div>
 <br>
@@ -57,11 +80,11 @@
 <!-- <br>
 <div align=center>
   ![sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
-<!--
+
 **sangminee/sangminee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -74,11 +97,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- 
-[sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
-   
- -->
 
-<!-- 
+[sangminee's github stats](https://github-readme-stats.vercel.app/api?username=sangminee&show_icons=true)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
