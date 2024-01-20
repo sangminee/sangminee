@@ -1,5 +1,5 @@
 ## Hi! I'm Sangmin 👋 
-  - 🌱 I’m currently learning `JAVA`, `Spring`, `Spring boot`, `Oracle`
+  - 🌱 I’m currently learning `JAVA`, `Spring / Spring boot`, `Oracle`
   - 👩🏻‍🎓 I'm majoring in `Application software` & `Biosciences and Bioinformatics`, at Myongji University
 
 
