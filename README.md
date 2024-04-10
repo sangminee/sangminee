@@ -3,16 +3,6 @@
   - 👩🏻‍🎓 I'm majoring in `Application software` & `Biosciences and Bioinformatics`, at Myongji University
 
 
-## Activity
-  - (2023) 현대IT&E 채용연계형 교육과정 8기
-  - (2023) 코테이토 5기, 6기
-  - (2022) 외주 (백엔드)
-  - (2022) GDSC MJU 1기
-  - (2021) 라이징 캠프 3기 (서버)
-  - (2021) 멋쟁이 사자처럼(인문) 9기
-  - (2021) 응용소프트웨어 복수전공
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangminee&count_bg=%2316C7FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
